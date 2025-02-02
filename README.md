@@ -1,2 +1,2 @@
 # Wagons
-GestionWagons
+GestionWagon
